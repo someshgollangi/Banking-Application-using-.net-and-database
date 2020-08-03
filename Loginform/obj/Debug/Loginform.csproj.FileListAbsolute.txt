@@ -1,0 +1,14 @@
+C:\Users\somesh\source\repos\Loginform\bin\Debug\Loginform.exe.config
+C:\Users\somesh\source\repos\Loginform\bin\Debug\Loginform.exe
+C:\Users\somesh\source\repos\Loginform\bin\Debug\Loginform.pdb
+C:\Users\somesh\source\repos\Loginform\obj\Debug\Loginform.csprojAssemblyReference.cache
+C:\Users\somesh\source\repos\Loginform\obj\Debug\Loginform.Form1.resources
+C:\Users\somesh\source\repos\Loginform\obj\Debug\Loginform.Properties.Resources.resources
+C:\Users\somesh\source\repos\Loginform\obj\Debug\Loginform.csproj.GenerateResource.cache
+C:\Users\somesh\source\repos\Loginform\obj\Debug\Loginform.csproj.CoreCompileInputs.cache
+C:\Users\somesh\source\repos\Loginform\obj\Debug\Loginform.exe
+C:\Users\somesh\source\repos\Loginform\obj\Debug\Loginform.pdb
+C:\Users\somesh\source\repos\Loginform\obj\Debug\Loginform.Form2.resources
+C:\Users\somesh\source\repos\Loginform\obj\Debug\Loginform.Form3.resources
+C:\Users\somesh\source\repos\Loginform\obj\Debug\Loginform.Form4.resources
+C:\Users\somesh\source\repos\Loginform\obj\Debug\Loginform.Form5.resources
